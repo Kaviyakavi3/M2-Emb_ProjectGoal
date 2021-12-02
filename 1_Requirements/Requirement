@@ -3,7 +3,7 @@ The aim of this project is to implement the led to blink by using Atmega328 micr
 
 4W1H:
 When
-   
+   It will be used in indication for any indication projects
 Where
   It is used in mobile phones,vehicles and electronic gadgets.
 Why
@@ -12,4 +12,4 @@ What
   Either to show LED is ON or OFF.
 How
   In addition with Atmega328 microcontroller,Resistor is connected to led and it shows led blinking.
-SWOT
+
